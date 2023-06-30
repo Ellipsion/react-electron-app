@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+#electron
+/dist
+/electron
+
 # testing
 /coverage
 

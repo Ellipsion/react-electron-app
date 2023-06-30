@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": "456C",
+    "title": "Product C",
+    "price": "899.99",
+    "sku": "KE245"
+  },
+  {
+    "product_id": "789D",
+    "title": "Product D",
+    "price": "499.95",
+    "sku": "KE897"
+  },
+  {
+    "product_id": "246E",
+    "title": "Product E",
+    "price": "199.99",
+    "sku": "KE777"
+  },
+  {
+    "product_id": "135F",
+    "title": "Product F",
+    "price": "349.50",
+    "sku": "KE623"
+  },
+  {
+    "product_id": "680G",
+    "title": "Product G",
+    "price": "799.00",
+    "sku": "KE432"
+  },
+  {
+    "product_id": "975H",
+    "title": "Product H",
+    "price": "599.99",
+    "sku": "KE945"
+  },
+  {
+    "product_id": "802I",
+    "title": "Product I",
+    "price": "249.99",
+    "sku": "KE125"
+  },
+  {
+    "product_id": "147J",
+    "title": "Product J",
+    "price": "159.00",
+    "sku": "KE333"
+  },
+  {
+    "product_id": "369K",
+    "title": "Product K",
+    "price": "899.50",
+    "sku": "KE520"
+  },
+  {
+    "product_id": "528L",
+    "title": "Product L",
+    "price": "429.99",
+    "sku": "KE742"
+  },
+  {
+    "product_id": "456C",
+    "title": "Product C",
+    "price": "899.99",
+    "sku": "KE245"
+  },
+  {
+    "product_id": "789D",
+    "title": "Product D",
+    "price": "499.95",
+    "sku": "KE897"
+  },
+  {
+    "product_id": "246E",
+    "title": "Product E",
+    "price": "199.99",
+    "sku": "KE777"
+  },
+  {
+    "product_id": "135F",
+    "title": "Product F",
+    "price": "349.50",
+    "sku": "KE623"
+  },
+  {
+    "product_id": "680G",
+    "title": "Product G",
+    "price": "799.00",
+    "sku": "KE432"
+  },
+  {
+    "product_id": "975H",
+    "title": "Product H",
+    "price": "599.99",
+    "sku": "KE945"
+  },
+  {
+    "product_id": "802I",
+    "title": "Product I",
+    "price": "249.99",
+    "sku": "KE125"
+  },
+  {
+    "product_id": "147J",
+    "title": "Product J",
+    "price": "159.00",
+    "sku": "KE333"
+  },
+  {
+    "product_id": "369K",
+    "title": "Product K",
+    "price": "899.50",
+    "sku": "KE520"
+  },
+  {
+    "product_id": "528L",
+    "title": "Product L",
+    "price": "429.99",
+    "sku": "KE742"
+  }
+]
