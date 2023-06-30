@@ -1,4 +1,10 @@
-# Getting Started with The App
+### Electron App
+
+I built this react-electron desktop app for an assignment.
+
+It reads json data from a file via ipc communication.
+
+### Getting Started with The App
 
 ## Available Scripts
 
