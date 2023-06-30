@@ -16,6 +16,11 @@ Runs the app in the development mode.
 
 It will open new electron window in development mode.
 
+
+### `npm run electron:build`
+
+Will build the react app and than package the electron app into executable.
+
 ## Executable
 
-You can also run the windows .exe executable in dist/win-unpacked folder.
+If app was packaged with the above command, you can run the executable in dist/win-unpacked folder.
