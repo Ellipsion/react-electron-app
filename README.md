@@ -2,7 +2,7 @@
 
 I built this react-electron desktop app for an assignment.
 
-It reads json data from a file via ipc communication.
+It creates, read, and edit json data in form of tabular UI and save to filesystem.
 
 ### Getting Started with The App
 
